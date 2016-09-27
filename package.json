@@ -1,0 +1,13 @@
+{
+  "name": "Print_IP_Address",
+  "version": "1.0.0",
+  "description": "A simple application to print the IP of a host",
+  "author": "Stephen Coady <scoady2@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
